@@ -41,24 +41,21 @@ Computer Science and Engineering | 2023 – 2027
 ### Languages
 - Rust
 - TypeScript
+- Golang
 - JavaScript
+- Python
+- Dart
 - PHP
-- SQL
 
 ### Frontend
 - React
 - Next.js
-- HTML
-- CSS
+- Tailwind
 
 ### Backend
 - Node.js
 - Express.js
 - Laravel
-
-### Databases
-- PostgreSQL
-- MongoDB
 
 ### Other
 - Git
